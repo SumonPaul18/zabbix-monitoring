@@ -156,7 +156,7 @@ Containers:
   * **Password**: root\_password
 
 ---
-> ⚠️ You can change these passwords from the '''docker-compose.yml''' file.
+> ⚠️ You can change these passwords from the ```docker-compose.yml``` file.
 
 
 ## 🔗 Useful Resources
