@@ -15,8 +15,9 @@ Welcome to the **Zabbix Monitoring** repository! This guide will help you unders
 7. [Run Zabbix using Docker Compose](#%EF%B8%8F-run-zabbix-using-docker-compose)
 8. [Accessing Zabbix Dashboard](#-accessing-zabbix-dashboard)
 9. [Accessing phpMyAdmin](#-accessing-phpmyadmin)
-10. [Useful Resources](#-useful-resources)
-11. [Credits & References](#-credits--references)
+10. [Volumes & Data Persistence](#-volumes--data-persistence) 
+11. [Useful Resources](#-useful-resources)
+12. [Credits & References](#-credits--references)
 
 ---
 
