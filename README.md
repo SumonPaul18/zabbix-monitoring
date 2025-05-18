@@ -167,6 +167,11 @@ volumes:
   - ./zabbix_server:/var/lib/zabbix
   - ./zabbix_agent:/var/lib/zabbix
 ```
+In your ```zabbix-monitoring``` folder you can see 3 extra folder which are
+- **zabbix_agent**
+- **zabbix_db**
+- **zabbix_server**
+  
 Ensure you **don’t delete these folders** unless you want to wipe the data.
 
 
