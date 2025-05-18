@@ -28,11 +28,15 @@ Welcome to the **Zabbix Monitoring** repository! This guide will help you unders
 
 ## 💡 Why Use Zabbix?
 
-* Free and open-source
-* Scalable architecture
-* Customizable dashboards
-* Real-time alerting and notifications
-* Suitable for enterprise-grade monitoring
+- ✅ Free and open-source (no license fee)
+- ✅ Scalable for small to large infrastructures
+- ✅ Rich visualization (graphs, maps, dashboards)
+- ✅ Auto-discovery of devices/services
+- ✅ Real-time alerting and notifications
+- ✅ Supports SNMP, IPMI, JMX, HTTP, Agent-based & Agentless monitoring
+- ✅ Suitable for enterprise-grade monitoring
+
+
 
 ---
 
