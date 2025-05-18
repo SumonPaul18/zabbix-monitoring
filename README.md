@@ -8,15 +8,15 @@ Welcome to the **Zabbix Monitoring** repository! This guide will help you unders
 
 1. [What is Zabbix?](#-what-is-zabbix)
 2. [Why Use Zabbix?](#-why-use-zabbix)
-3. [Advantages & Disadvantages of Zabbix](#--advantages--disadvantages-of-zabbix)
-4. [Zabbix vs Other Paid Monitoring Tools](#zabbix-vs-other-paid-monitoring-tools)
-5. [Open Source Alternatives to Zabbix](#open-source-alternatives-to-zabbix)
-6. [Zabbix Installation Methods](#zabbix-installation-methods)
-7. [Run Zabbix using Docker Compose](#run-zabbix-using-docker-compose)
-8. [Accessing Zabbix Dashboard](#accessing-zabbix-dashboard)
-9. [Accessing phpMyAdmin](#accessing-phpmyadmin)
-10. [Useful Resources](#useful-resources)
-11. [Credits & References](#credits--references)
+3. [Advantages & Disadvantages of Zabbix](#%EF%B8%8F-advantages--disadvantages-of-zabbix)
+4. [Zabbix vs Other Paid Monitoring Tools](#%EF%B8%8F-zabbix-vs-other-paid-monitoring-tools)
+5. [Open Source Alternatives to Zabbix](#-open-source-alternatives-to-zabbix)
+6. [Zabbix Installation Methods](#-zabbix-installation-methods)
+7. [Run Zabbix using Docker Compose](#%EF%B8%8F-run-zabbix-using-docker-compose)
+8. [Accessing Zabbix Dashboard](#-accessing-zabbix-dashboard)
+9. [Accessing phpMyAdmin](#-accessing-phpmyadmin)
+10. [Useful Resources](#-useful-resources)
+11. [Credits & References](#-credits--references)
 
 ---
 
