@@ -193,8 +193,11 @@ Ensure you **don’t delete these folders** unless you want to wipe the data.
 ## 🙋 Author
 
 **Sumon Paul**
+
 📧 [sumonpaul461@gmail.com](mailto:sumonpaul461@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sumonpaul/)
+
 🌐 [GitHub](https://github.com/SumonPaul18)
 
 ---
