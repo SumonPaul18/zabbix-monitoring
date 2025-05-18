@@ -8,7 +8,7 @@ Welcome to the **Zabbix Monitoring** repository! This guide will help you unders
 
 1. [What is Zabbix?](#-what-is-zabbix)
 2. [Why Use Zabbix?](#-why-use-zabbix)
-3. [Advantages & Disadvantages of Zabbix](#-advantages--disadvantages-of-zabbix)
+3. [Advantages & Disadvantages of Zabbix](#--advantages--disadvantages-of-zabbix)
 4. [Zabbix vs Other Paid Monitoring Tools](#zabbix-vs-other-paid-monitoring-tools)
 5. [Open Source Alternatives to Zabbix](#open-source-alternatives-to-zabbix)
 6. [Zabbix Installation Methods](#zabbix-installation-methods)
