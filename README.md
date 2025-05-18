@@ -157,6 +157,18 @@ Containers:
 
 ---
 > ⚠️ You can change these passwords from the ```docker-compose.yml``` file.
+---
+## 💾 Volumes & Data Persistence
+Data is persisted using the following volumes:
+
+```
+volumes:
+  - ./zabbix_db:/var/lib/mysql
+  - ./zabbix_server:/var/lib/zabbix
+  - ./zabbix_agent:/var/lib/zabbix
+```
+Ensure you don’t delete these folders unless you want to wipe the data.
+
 
 
 ## 🔗 Useful Resources
