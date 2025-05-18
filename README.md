@@ -167,7 +167,7 @@ volumes:
   - ./zabbix_server:/var/lib/zabbix
   - ./zabbix_agent:/var/lib/zabbix
 ```
-Ensure you don’t delete these folders unless you want to wipe the data.
+Ensure you **don’t delete these folders** unless you want to wipe the data.
 
 
 
@@ -190,4 +190,13 @@ Ensure you don’t delete these folders unless you want to wipe the data.
 
 ---
 
-> ✨ Maintained by **Suman Pal** | Contributions are welcome!
+## 🙋 Author
+
+**Sumon Paul**
+📧 [sumonpaul461@gmail.com](mailto:sumonpaul461@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sumonpaul/)
+🌐 [GitHub](https://github.com/SumonPaul18)
+
+---
+
+
