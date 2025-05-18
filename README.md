@@ -28,7 +28,7 @@ Welcome to the **Zabbix Monitoring** repository! This guide will help you unders
 
 ## 💡 Why Use Zabbix?
 
-* ✅ Free and open-source (no license fee)
+✅ Free and open-source (no license fee)
 - ✅ Scalable for small to large infrastructures
 - ✅ Rich visualization (graphs, maps, dashboards)
 - ✅ Auto-discovery of devices/services
