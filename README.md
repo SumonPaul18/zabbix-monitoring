@@ -175,6 +175,21 @@ In your ```zabbix-monitoring``` folder you can see 3 extra folder which are
   
 Ensure you **don’t delete these folders** unless you want to wipe the data.
 
+---
+## Docker-Compose Down
+
+To stop and remove containers:
+
+```bash
+docker-compose down
+```
+
+To stop and also remove volumes:
+
+```bash
+docker-compose down -v
+```
+---
 
 
 ## 🔗 Useful Resources
